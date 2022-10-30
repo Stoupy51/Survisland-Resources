@@ -1,0 +1,80 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/diamond_axe"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 2012107
+      },
+      "model": "simplenergy:equipments/simplunium_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2012107
+      },
+      "model": "simplenergy:equipments/simplunium_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013120
+      },
+      "model": "stardust:equipments/original_stardust_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013120
+      },
+      "model": "stardust:equipments/original_stardust_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013127
+      },
+      "model": "stardust:equipments/legendarium_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013127
+      },
+      "model": "stardust:equipments/legendarium_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013134
+      },
+      "model": "stardust:equipments/solarium_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013134
+      },
+      "model": "stardust:equipments/solarium_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013141
+      },
+      "model": "stardust:equipments/darkium_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013141
+      },
+      "model": "stardust:equipments/darkium_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4220116
+      },
+      "model": "crazy_adventure:equipments/uranium_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4220125
+      },
+      "model": "crazy_adventure:equipments/californium_axe"
+    }
+  ]
+}

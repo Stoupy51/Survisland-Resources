@@ -1,0 +1,23 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"down": "stardust:others/quarry/4_bottom",
+		"up": "stardust:others/quarry/4_top",
+		"north": "stardust:others/quarry/4_side",
+		"south": "stardust:others/quarry/4_side",
+		"west": "stardust:others/quarry/4_side",
+		"east": "stardust:others/quarry/4_side"
+	},
+	"elements": [{
+		"from": [ 0, 0, 0 ],
+		"to": [ 16, 16, 16 ],
+		"faces": {
+			"down":  { "texture": "#down", "cullface": "down" },
+			"up":    { "texture": "#up", "cullface": "up" },
+			"north": { "texture": "#north", "cullface": "north" },
+			"south": { "texture": "#south", "cullface": "south" },
+			"west":  { "texture": "#west", "cullface": "west" },
+			"east":  { "texture": "#east", "cullface": "east" }
+		}
+	}]
+}

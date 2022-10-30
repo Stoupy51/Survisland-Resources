@@ -1,0 +1,6 @@
+{
+	"parent": "item/bow",
+	"textures": {
+		"layer0": "stardust:equipments/awakened_stardust_bow"
+	}
+}
