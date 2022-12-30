@@ -187,5 +187,122 @@
         "stream": true
       }
     ]
+  },
+ "music.game.conseil21": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "survivor/conseil21",
+        "stream": true
+      }
+    ]
+  },
+ "music.game.conseil22": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "survivor/conseil22",
+        "stream": true
+      }
+    ]
+  },
+ "music.game.conseil23": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "survivor/conseil23",
+        "stream": true
+      }
+    ]
+  },
+ "music.game.conseil24": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "survivor/conseil24",
+        "stream": true
+      }
+    ]
+  },
+ "music.game.conseil25": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "survivor/conseil25",
+        "stream": true
+      }
+    ]
+  },
+ "music.game.conseil26": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "survivor/conseil26",
+        "stream": true
+      }
+    ]
+  },
+ "music.game.conseil27": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "survivor/conseil27",
+        "stream": true
+      }
+    ]
+  },
+ "music.game.conseil28": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "survivor/conseil28",
+        "stream": true
+      }
+    ]
+  },
+ "music.game.conseil29": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "survivor/conseil29",
+        "stream": true
+      }
+    ]
+  },
+ "music.game.conseil30": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "survivor/conseil30",
+        "stream": true
+      }
+    ]
+  },
+ "music.game.conseil31": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "survivor/conseil31",
+        "stream": true
+      }
+    ]
+  },
+ "music.game.conseil32": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "survivor/conseil32",
+        "stream": true
+      }
+    ]
+  },
+ "music.game.conseil33": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "survivor/conseil33",
+        "stream": true
+      }
+    ]
   }
 }
