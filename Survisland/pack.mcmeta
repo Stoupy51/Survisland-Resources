@@ -1,6 +1,6 @@
 {
-  "pack": {
-    "pack_format": 9,
-    "description": "§fResource Pack de §bSurvisland"
-  }
+	"pack": {
+		"pack_format": 13,
+		"description": "§fResource Pack §bSurvisland"
+	}
 }

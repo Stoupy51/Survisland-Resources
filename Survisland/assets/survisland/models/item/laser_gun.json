@@ -1,8 +1,7 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "survisland:laser_gun"
+		"layer0": "survisland:item/laser_gun"
 	},
 	"display": {
 		"thirdperson_righthand": {
