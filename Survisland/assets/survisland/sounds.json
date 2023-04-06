@@ -4,5 +4,11 @@
 		"sounds": [
 			"survisland:laser_gun"
 		]
+	},
+	"fart": {
+		"subtitle": "Fart",
+		"sounds": [
+			"survisland:fart"
+		]
 	}
 }
