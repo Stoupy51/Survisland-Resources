@@ -1,191 +1,37 @@
 {
-	"music.game.conseil": {
-		"category": "music",
-		"sounds": [
-			{
-				"name": "survivor/conseil",
-				"stream": true
-			}
-		]
-	},
-	"music.game.conseil1": {
-		"category": "music",
-		"sounds": [
-			{
-				"name": "survivor/conseil1",
-				"stream": true
-			}
-		]
-	},
-	"music.game.conseil2": {
-		"category": "music",
-		"sounds": [
-			{
-				"name": "survivor/conseil2",
-				"stream": true
-			}
-		]
-	},
-	"music.game.conseil3": {
-		"category": "music",
-		"sounds": [
-			{
-				"name": "survivor/conseil3",
-				"stream": true
-			}
-		]
-	},
-	"music.game.conseil4": {
-		"category": "music",
-		"sounds": [
-			{
-				"name": "survivor/conseil4",
-				"stream": true
-			}
-		]
-	},
-	"music.game.conseil5": {
-		"category": "music",
-		"sounds": [
-			{
-				"name": "survivor/conseil5",
-				"stream": true
-			}
-		]
-	},
-	"music.game.conseil6": {
-		"category": "music",
-		"sounds": [
-			{
-				"name": "survivor/conseil6",
-				"stream": true
-			}
-		]
-	},
-	"music.game.conseil7": {
-		"category": "music",
-		"sounds": [
-			{
-				"name": "survivor/conseil7",
-				"stream": true
-			}
-		]
-	},
-	"music.game.conseil8": {
-		"category": "music",
-		"sounds": [
-			{
-				"name": "survivor/conseil8",
-				"stream": true
-			}
-		]
-	},
-	"music.game.conseil9": {
-		"category": "music",
-		"sounds": [
-			{
-				"name": "survivor/conseil9",
-				"stream": true
-			}
-		]
-	},
-	"music.game.conseil10": {
-		"category": "music",
-		"sounds": [
-			{
-				"name": "survivor/conseil10",
-				"stream": true
-			}
-		]
-	},
-	"music.game.conseil11": {
-		"category": "music",
-		"sounds": [
-			{
-				"name": "survivor/conseil11",
-				"stream": true
-			}
-		]
-	},
-	"music.game.conseil12": {
-		"category": "music",
-		"sounds": [
-			{
-				"name": "survivor/conseil12",
-				"stream": true
-			}
-		]
-	},
-	"music.game.conseil13": {
-		"category": "music",
-		"sounds": [
-			{
-				"name": "survivor/conseil13",
-				"stream": true
-			}
-		]
-	},
-	"music.game.conseil14": {
-		"category": "music",
-		"sounds": [
-			{
-				"name": "survivor/conseil14",
-				"stream": true
-			}
-		]
-	},
-	"music.game.conseil15": {
-		"category": "music",
-		"sounds": [
-			{
-				"name": "survivor/conseil15",
-				"stream": true
-			}
-		]
-	},
-	"music.game.conseil16": {
-		"category": "music",
-		"sounds": [
-			{
-				"name": "survivor/conseil16",
-				"stream": true
-			}
-		]
-	},
-	"music.game.conseil17": {
-		"category": "music",
-		"sounds": [
-			{
-				"name": "survivor/conseil17",
-				"stream": true
-			}
-		]
-	},
-	"music.game.conseil18": {
-		"category": "music",
-		"sounds": [
-			{
-				"name": "survivor/conseil18",
-				"stream": true
-			}
-		]
-	},
-	"music.game.conseil19": {
-		"category": "music",
-		"sounds": [
-			{
-				"name": "survivor/conseil19",
-				"stream": true
-			}
-		]
-	},
-	"music.game.conseil20": {
-		"category": "music",
-		"sounds": [
-			{
-				"name": "survivor/conseil20",
-				"stream": true
-			}
-		]
-	}
+	"music.game.conseil1": { "category": "music", "sounds": [ { "name": "survivor/conseil1", "stream": true } ] },
+	"music.game.conseil2": { "category": "music", "sounds": [ { "name": "survivor/conseil2", "stream": true } ] },
+	"music.game.conseil3": { "category": "music", "sounds": [ { "name": "survivor/conseil3", "stream": true } ] },
+	"music.game.conseil4": { "category": "music", "sounds": [ { "name": "survivor/conseil4", "stream": true } ] },
+	"music.game.conseil5": { "category": "music", "sounds": [ { "name": "survivor/conseil5", "stream": true } ] },
+	"music.game.conseil6": { "category": "music", "sounds": [ { "name": "survivor/conseil6", "stream": true } ] },
+	"music.game.conseil7": { "category": "music", "sounds": [ { "name": "survivor/conseil7", "stream": true } ] },
+	"music.game.conseil8": { "category": "music", "sounds": [ { "name": "survivor/conseil8", "stream": true } ] },
+	"music.game.conseil9": { "category": "music", "sounds": [ { "name": "survivor/conseil9", "stream": true } ] },
+	"music.game.conseil10": { "category": "music", "sounds": [ { "name": "survivor/conseil10", "stream": true } ] },
+	"music.game.conseil11": { "category": "music", "sounds": [ { "name": "survivor/conseil11", "stream": true } ] },
+	"music.game.conseil12": { "category": "music", "sounds": [ { "name": "survivor/conseil12", "stream": true } ] },
+	"music.game.conseil13": { "category": "music", "sounds": [ { "name": "survivor/conseil13", "stream": true } ] },
+	"music.game.conseil14": { "category": "music", "sounds": [ { "name": "survivor/conseil14", "stream": true } ] },
+	"music.game.conseil15": { "category": "music", "sounds": [ { "name": "survivor/conseil15", "stream": true } ] },
+	"music.game.conseil16": { "category": "music", "sounds": [ { "name": "survivor/conseil16", "stream": true } ] },
+	"music.game.conseil17": { "category": "music", "sounds": [ { "name": "survivor/conseil17", "stream": true } ] },
+	"music.game.conseil18": { "category": "music", "sounds": [ { "name": "survivor/conseil18", "stream": true } ] },
+	"music.game.conseil19": { "category": "music", "sounds": [ { "name": "survivor/conseil19", "stream": true } ] },
+	"music.game.conseil20": { "category": "music", "sounds": [ { "name": "survivor/conseil20", "stream": true } ] },
+	"music.game.conseil21": { "category": "music", "sounds": [ { "name": "survivor/conseil21", "stream": true } ] },
+	"music.game.conseil22": { "category": "music", "sounds": [ { "name": "survivor/conseil22", "stream": true } ] },
+	"music.game.conseil23": { "category": "music", "sounds": [ { "name": "survivor/conseil23", "stream": true } ] },
+	"music.game.conseil24": { "category": "music", "sounds": [ { "name": "survivor/conseil24", "stream": true } ] },
+	"music.game.conseil25": { "category": "music", "sounds": [ { "name": "survivor/conseil25", "stream": true } ] },
+	"music.game.conseil26": { "category": "music", "sounds": [ { "name": "survivor/conseil26", "stream": true } ] },
+	"music.game.conseil27": { "category": "music", "sounds": [ { "name": "survivor/conseil27", "stream": true } ] },
+	"music.game.conseil28": { "category": "music", "sounds": [ { "name": "survivor/conseil28", "stream": true } ] },
+	"music.game.conseil29": { "category": "music", "sounds": [ { "name": "survivor/conseil29", "stream": true } ] },
+	"music.game.conseil30": { "category": "music", "sounds": [ { "name": "survivor/conseil30", "stream": true } ] },
+	"music.game.conseil31": { "category": "music", "sounds": [ { "name": "survivor/conseil31", "stream": true } ] },
+	"music.game.conseil32": { "category": "music", "sounds": [ { "name": "survivor/conseil32", "stream": true } ] },
+	"music.game.conseil33": { "category": "music", "sounds": [ { "name": "survivor/conseil33", "stream": true } ] },
+	"music.game.conseil34": { "category": "music", "sounds": [ { "name": "survivor/conseil34", "stream": true } ] },
+	"music.game.conseil35": { "category": "music", "sounds": [ { "name": "survivor/conseil35", "stream": true } ] }
 }
