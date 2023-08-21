@@ -1,14 +1,5 @@
 {
-	"laser_gun": {
-		"subtitle": "LaserGun",
-		"sounds": [
-			"survisland:laser_gun"
-		]
-	},
-	"fart": {
-		"subtitle": "Fart",
-		"sounds": [
-			"survisland:fart"
-		]
-	}
+	"laser_gun":	{ "subtitle": "Laser Gun"	, "sounds": [ "survisland:laser_gun" ] },
+	"fart":			{ "subtitle": "Fart"		, "sounds": [ "survisland:fart" ] },
+	"rompich":		{ "subtitle": "Rompich"		, "sounds": [ "survisland:rompich" ] }
 }

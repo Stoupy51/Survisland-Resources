@@ -11,6 +11,10 @@
 		{ "predicate": { "custom_model_data": 2010004 }, "model": "survisland:item/snuffer" },
 		{ "predicate": { "custom_model_data": 2010005 }, "model": "survisland:item/flambeau_on" },
 		{ "predicate": { "custom_model_data": 2010006 }, "model": "survisland:item/flambeau_off" },
+		{ "predicate": { "custom_model_data": 2010007 }, "model": "survisland:item/necklace" },
+		{ "predicate": { "custom_model_data": 2010008 }, "model": "survisland:item/pendent_item" },
+		{ "predicate": { "custom_model_data": 2010009 }, "model": "survisland:item/pendent_held" },
+		{ "predicate": { "custom_model_data": 2010010 }, "model": "survisland:item/deployed_item_parchemin" },
 
 		{ "predicate": { "custom_model_data": 2012110 }, "model": "simplenergy:equipments/multimeter" },
 		{ "predicate": { "custom_model_data": 2012111 }, "model": "simplenergy:equipments/wrench" },
