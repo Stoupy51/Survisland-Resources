@@ -4,23 +4,24 @@
 		"layer0": "item/written_book"
 	},
 	"overrides": [
-		{
-			"predicate": {
-				"custom_model_data": 2012100
-			},
-			"model": "simplenergy:manual"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 2013398
-			},
-			"model": "stardust:manual"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 4220999
-			},
-			"model": "crazy_adventure:manual"
-		}
+		{ "predicate": { "custom_model_data": 2010100 }, "model": "survisland:books/advanced" },
+		{ "predicate": { "custom_model_data": 2010101 }, "model": "survisland:books/brown" },
+		{ "predicate": { "custom_model_data": 2010102 }, "model": "survisland:books/bubulle" },
+		{ "predicate": { "custom_model_data": 2010103 }, "model": "survisland:books/feather" },
+		{ "predicate": { "custom_model_data": 2010104 }, "model": "survisland:books/green_blue" },
+		{ "predicate": { "custom_model_data": 2010105 }, "model": "survisland:books/orange" },
+		{ "predicate": { "custom_model_data": 2010106 }, "model": "survisland:books/pink" },
+		{ "predicate": { "custom_model_data": 2010107 }, "model": "survisland:books/purple" },
+		{ "predicate": { "custom_model_data": 2010108 }, "model": "survisland:books/red" },
+		{ "predicate": { "custom_model_data": 2010109 }, "model": "survisland:books/turquoise" },
+		{ "predicate": { "custom_model_data": 2010110 }, "model": "survisland:books/very_light_cyan" },
+		{ "predicate": { "custom_model_data": 2010111 }, "model": "survisland:books/warden" },
+		{ "predicate": { "custom_model_data": 2010112 }, "model": "survisland:books/white" },
+		{ "predicate": { "custom_model_data": 2010113 }, "model": "survisland:books/white_blue" },
+		{ "predicate": { "custom_model_data": 2010114 }, "model": "survisland:books/yellow" },
+
+		{ "predicate": { "custom_model_data": 2012100 }, "model": "simplenergy:manual" },
+		{ "predicate": { "custom_model_data": 2013398 }, "model": "stardust:manual" },
+		{ "predicate": { "custom_model_data": 4220999 }, "model": "crazy_adventure:manual" }
 	]
 }
